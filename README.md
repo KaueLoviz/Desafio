@@ -3,7 +3,7 @@ Sistema Completo em Node.js
 
 Kauê Loviz de Oliveira - RGM: 30650615
 
-Lucas Matos de Santana - 29371538
+Lucas Matos de Santana - RGM: 29371538
 
 ❗ TEM QUE TER NODE.JS INSTALADO NA MÁQUINA ❗
 
