@@ -16,7 +16,7 @@ Rodar o servidor na porta 3000 localhost:
 # scripts
 npm start
 
-"start": "nodemon app.js"
+"start": "nodemon ./server.js"
 ----------------------------
 
 Navegue através das rotas:
