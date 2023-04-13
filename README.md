@@ -5,6 +5,8 @@ Kauê Loviz de Oliveira - RGM: 30650615
 
 Lucas Matos de Santana - RGM: 29371538
 
+⚠️ O arquivo do Projeto esta zipado em .rar ⚠️
+
 ❗ TEM QUE TER NODE.JS INSTALADO NA MÁQUINA ❗
 
 *Comandos via Terminal VS ou CMD*: Referente ao Desafio
