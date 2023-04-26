@@ -14,7 +14,7 @@ Lucas Matos de Santana - RGM: 29371538
 Rodar o servidor na porta 3000 localhost:
 
 # scripts
-npm start
+npm run start
 
 "start": "nodemon ./server.js"
 ----------------------------
