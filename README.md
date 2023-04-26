@@ -28,7 +28,7 @@ Navegue através das rotas:
 /abertura/tipoJson, /abertura/tipoMd, /abertura/tipoPdf
 ```
 
-## Autor🙋‍♂️
+## Autores🙋‍♂️
 - [@Kauê](https://github.com/KaueLoviz)
 - [@Lucas](https://github.com/Lucascuca)
 
